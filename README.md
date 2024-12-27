@@ -32,7 +32,7 @@
 ### 📫 Get in Touch
 - **LinkedIn:** https://www.linkedin.com/in/idriss-alcide-r-5340b9198
 - **Whatsapp:** +261 34 08 704 32
-- **GitHub:** https://github.com/IDCorvus
+- **GitHub:** https://github.com/IDcorvus
 
 ### ⚡ Fun Fact
 - I love diving into complex problems and building projects that challenge my skills!
